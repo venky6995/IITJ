@@ -3,7 +3,7 @@
 
 **About the Project**
 
-This project is a part of the assignment challenge, where I, Doddi Venkatesh(G23AI2122), have showed a series of projects to demonstrate my skills in Docker.
+This project is a part of the assignment challenge, where I, Niraj Bhagchandani(G23AI2087), have showed a series of projects to demonstrate my skills in Docker.
 
 **Running the Container**
 
@@ -61,15 +61,15 @@ Server name set to localhost in ```/etc/apache2/apache2.conf```
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-1.png)
+![App Screenshot](https://raw.githubusercontent.com/venky6995/IITJ/main/Screenshot-1.png)
 
-![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-2.png)
+![App Screenshot](https://raw.githubusercontent.com/venky6995/IITJ/main/Screenshot-2.png)
 
-![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-3.png)
+![App Screenshot](https://raw.githubusercontent.com/venky6995/IITJ/main/Screenshot-3.png)
 
-![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-4.png)
+![App Screenshot](https://raw.githubusercontent.com/venky6995/IITJ/main/Screenshot-4.png)
 
-![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-5.png)
+![App Screenshot](https://raw.githubusercontent.com/venky6995/IITJ/main/Screenshot-5.png)
 
 **Credits** 
 
