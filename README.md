@@ -3,7 +3,7 @@
 
 **About the Project**
 
-This project is a part of the assignment challenge, where I, Niraj Bhagchandani(G23AI2087), have showed a series of projects to demonstrate my skills in Docker.
+This project is a part of the assignment challenge, where I, Doddi Venkatesh(G23AI2122), have showed a series of projects to demonstrate my skills in Docker.
 
 **Running the Container**
 
